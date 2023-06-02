@@ -1,5 +1,5 @@
 #  About Me:
-I am a third-year undergraduate student at York University studying statistics. <br>I am highly interested in working on sports statistics to combine my athletic side with my academic side. <br>Looking for any help to turn my interest into a difference in the world.  <br><br>
+I am a fourth-year undergraduate student at York University studying statistics. <br>I am highly interested in working on sports statistics to combine my athletic side with my academic side. <br>Looking for any help to turn my interest into a difference in the world.  <br><br>
 
 
 ## 🌐 Socials:
