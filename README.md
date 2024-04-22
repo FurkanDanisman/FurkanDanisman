@@ -1,5 +1,5 @@
 #  About Me:
-I am a fourth-year undergraduate student at York University studying statistics. <br>I am highly interested in working on sports statistics to combine my athletic side with my academic side. <br>Looking for any help to turn my interest into a difference in the world.  <br><br>
+I have recently come to an end with my undergraduate statistics story. My journey started at Middle East Technical University and completed at York University. <br> I am interested in machine learning and optimization. I am good at rigorous reports and reasoning of the models.   
 
 
 ## 🌐 Socials:
