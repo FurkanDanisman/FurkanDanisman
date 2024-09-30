@@ -1,7 +1,7 @@
 #  About Me:
 I have recently come to an end with my undergraduate statistics story. My journey started at Middle East Technical University and completed at York University. 
 
-I am interested in machine learning and optimization. Providing rigorous reports and reasoning for the models is my ideal technique.   
+I am interested in machine learning, optimization, and healthcare. Feel free to reach me at furkandanisman@gmail.com ! 
 
 
 ## 🌐 Socials:
