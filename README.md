@@ -5,7 +5,7 @@ I am a full-life researcher. I have worked on economics, healthcare, space engin
 Lately, I’ve been drawn to the intersection of large language models (LLMs) and causality, as well as neuroimage analysis. My ultimate goal in life is to be friends with Gorilla. 
 
 ## Academia:
-[![Google Scholar](https://www.linkedin.com/in/furkan-berk-dan%C4%B1%C5%9Fman-b0a504234/](https://scholar.google.ca/citations?view_op=list_works&hl=en&user=ovLhwwwAAAAJ) 
+[![Google_Scholar](https://www.linkedin.com/in/furkan-berk-dan%C4%B1%C5%9Fman-b0a504234/](https://scholar.google.ca/citations?view_op=list_works&hl=en&user=ovLhwwwAAAAJ) 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-berk-dan%C4%B1%C5%9Fman-b0a504234/) 
